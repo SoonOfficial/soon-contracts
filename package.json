@@ -1,0 +1,28 @@
+{
+  "name": "soon-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/hardhat-upgrades": "^2.5.1",
+    "dotenv": "^16.4.1",
+    "hardhat": "^2.19.5",
+    "hardhat-abi-exporter": "^2.10.1",
+    "hardhat-diamond-abi": "^3.0.1",
+    "hardhat-exposed": "^0.3.14",
+    "hardhat-ignore-warnings": "^0.2.9",
+    "uniswap-v2-deployer": "^0.1.0"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.8.0",
+    "@openzeppelin/contracts": "^5.0.1",
+    "@openzeppelin/contracts-upgradeable": "^5.0.1"
+  }
+}

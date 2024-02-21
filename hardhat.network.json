@@ -1,0 +1,122 @@
+{
+  "mainnet": {
+    "chainId": 1,
+    "url": "https://cloudflare-eth.com"
+  },
+  "bsc": {
+    "chainId": 56,
+    "url": "https://bsc-dataseed1.bnbchain.org"
+  },
+  "arbitrumOne": {
+    "chainId": 42161,
+    "url": "https://rpc.ankr.com/arbitrum"
+  },
+  "avalanche": {
+    "chainId": 43114,
+    "url": "https://rpc.ankr.com/avalanche"
+  },
+  "polygon": {
+    "chainId": 137,
+    "url": "https://endpoints.omniatech.io/v1/matic/mainnet/public"
+  },
+  "optimisticEthereum": {
+    "chainId": 10,
+    "url": "https://rpc.ankr.com/optimism"
+  },
+  "base": {
+    "chainId": 8453,
+    "url": "https://base.gateway.tenderly.co"
+  },
+  "gnosis": {
+    "chainId": 100,
+    "url": "https://rpc.ankr.com/gnosis"
+  },
+  "opera": {
+    "chainId": 250,
+    "url": "https://rpc.ankr.com/fantom"
+  },
+  "moonbeam": {
+    "chainId": 1284,
+    "url": "https://rpc.ankr.com/moonbeam"
+  },
+  "heco": {
+    "chainId": 128,
+    "url": "https://http-mainnet-node.huobichain.com"
+  },
+  "moonriver": {
+    "chainId": 1285,
+    "url": "https://rpc.api.moonriver.moonbeam.network"
+  },
+  "harmony": {
+    "chainId": 1666600000,
+    "url": "https://rpc.ankr.com/harmony"
+  },
+  "aurora": {
+    "chainId": 1313161554,
+    "url": "https://mainnet.aurora.dev"
+  },
+  "goerli": {
+    "chainId": 5,
+    "url": "https://rpc.ankr.com/eth_goerli"
+  },
+  "bscTestnet": {
+    "chainId": 97,
+    "url": "https://endpoints.omniatech.io/v1/bsc/testnet/public"
+  },
+  "sokol": {
+    "chainId": 77,
+    "url": "https://sokol.poa.network"
+  },
+  "optimisticGoerli": {
+    "chainId": 420,
+    "url": "https://endpoints.omniatech.io/v1/op/goerli/public"
+  },
+  "ftmTestnet": {
+    "chainId": 4002,
+    "url": "https://endpoints.omniatech.io/v1/fantom/testnet/public"
+  },
+  "hecoTestnet": {
+    "chainId": 256,
+    "url": "https://http-testnet.hecochain.com"
+  },
+  "avalancheFujiTestnet": {
+    "chainId": 43113,
+    "url": "https://endpoints.omniatech.io/v1/avax/fuji/public"
+  },
+  "moonbaseAlpha": {
+    "chainId": 1287,
+    "url": "https://rpc.api.moonbase.moonbeam.network"
+  },
+  "polygonMumbai": {
+    "chainId": 80001,
+    "url": "https://rpc.ankr.com/polygon_mumbai"
+  },
+  "chiado": {
+    "chainId": 10200,
+    "url": "https://rpc.chiadochain.net"
+  },
+  "baseGoerli": {
+    "chainId": 84531,
+    "url": "https://endpoints.omniatech.io/v1/base/goerli/public"
+  },
+  "arbitrumGoerli": {
+    "chainId": 421613,
+    "url": "https://endpoints.omniatech.io/v1/arbitrum/goerli/public"
+  },
+  "sepolia": {
+    "chainId": 11155111,
+    "url": "https://endpoints.omniatech.io/v1/eth/sepolia/public"
+  },
+  "arbitrumTestnet": {
+    "chainId": 421611,
+    "url": "https://rinkeby.arbitrum.io/rpc"
+  },
+  "auroraTestnet": {
+    "chainId": 1313161555,
+    "url": "https://endpoints.omniatech.io/v1/aurora/testnet/public"
+  },
+  "harmonyTest": {
+    "chainId": 1666700000,
+    "url": "https://endpoints.omniatech.io/v1/harmony/testnet-0/public"
+  }
+}
